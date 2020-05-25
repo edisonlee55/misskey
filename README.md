@@ -115,6 +115,7 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/605366/c9dc408fdcbf412fb183ca5b06235f8d/1.jpeg?token-time=2145916800&token-hash=oaqsjLqOFjWN5I9hm2epOaTXaEtKwQUy5OW-EpAz6-g%3D" alt="Jon Leibowitz" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/19045173/cb91c0f345c24d4ebfd05f19906d5e26/1.png?token-time=2145916800&token-hash=o_zKBytJs_AxHwSYw_5R8eD0eSJe3RoTR3kR3Q0syN0%3D" alt="kiritan " width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/24430516/b1964ac5b9f746d2a12ff53dbc9aa40a/1.jpg?token-time=2145916800&token-hash=bmEiMGYpp3bS7hCCbymjGGsHBZM3AXuBOFO3Kro37PU%3D" alt="Eduardo Quiros" width="100"></td>
+<td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/14215107/1cbe1912c26143919fa0faca16f12ce1/4.jpg?token-time=2145916800&token-hash=BslMqDjTjz8KYANLvxL87agHTugHa0dMPUzT-hwR6Vk%3D" alt="Nesakko" width="100"></td>
 </tr><tr>
 <td><a href="https://www.patreon.com/user?u=20832595">Roujo </a></td>
 <td><a href="https://www.patreon.com/user?u=27956229">Oliver Maximilian Seidel</a></td>
@@ -122,9 +123,10 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><a href="https://www.patreon.com/jonleibowitz">Jon Leibowitz</a></td>
 <td><a href="https://www.patreon.com/user?u=19045173">kiritan </a></td>
 <td><a href="https://www.patreon.com/user?u=24430516">Eduardo Quiros</a></td>
+<td><a href="https://www.patreon.com/Nesakko">Nesakko</a></td>
 </tr></table>
 <table><tr>
-<td><img src="https://c8.patreon.com/2/200/776209" alt="Denshi " width="100"></td>
+<td><img src="https://c8.patreon.com/2/200/776209" alt="Demogrognard" width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/3075183/c2ae575c604e420297f000ccc396e395/1.jpeg?token-time=2145916800&token-hash=O9qmPtpo6wWb0OuvnkEekhk_1WO2MTdytLr7ZgsAr80%3D" alt="Liaizon Wakest" width="100"></td>
 <td><img src="https://c8.patreon.com/2/200/557245" alt="mkatze " width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/23915207/25428766ecd745478e600b3d7f871eb2/1.png?token-time=2145916800&token-hash=urCLLA4KjJZX92Y1CxcBP4d8bVTHGkiaPnQZp-Tqz68%3D" alt="kabo2468y " width="100"></td>
@@ -135,7 +137,7 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/18899730/6a22797f68254034a854d69ea2445fc8/1.png?token-time=2145916800&token-hash=b_uj57yxo5VzkSOUS7oXE_762dyOTB_oxzbO6lFNG3k%3D" alt="YuzuRyo61 " width="100"></td>
 <td><img src="https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/5788159/af42076ab3354bb49803cfba65f94bee/1.jpg?token-time=2145916800&token-hash=iSaxp_Yr2-ZiU2YVi9rcpZZj9mj3UvNSMrZr4CU4qtA%3D" alt="mewl hayabusa" width="100"></td>
 </tr><tr>
-<td><a href="https://www.patreon.com/user?u=776209">Denshi </a></td>
+<td><a href="https://www.patreon.com/user?u=776209">Demogrognard</a></td>
 <td><a href="https://www.patreon.com/wakest">Liaizon Wakest</a></td>
 <td><a href="https://www.patreon.com/user?u=557245">mkatze </a></td>
 <td><a href="https://www.patreon.com/user?u=23915207">kabo2468y </a></td>
@@ -204,7 +206,7 @@ Please see the [Contribution Guide](./CONTRIBUTING.md).
 <td><a href="https://www.patreon.com/user?u=12531784">Takashi Shibuya</a></td>
 </tr></table>
 
-**Last updated:** Thu, 07 May 2020 18:00:08 UTC
+**Last updated:** Mon, 25 May 2020 14:00:07 UTC
 <!-- PATREON_END -->
 
 [backer-url]: #backers
